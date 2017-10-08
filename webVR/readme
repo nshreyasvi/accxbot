@@ -1,0 +1,4 @@
+Note : If developing on local system, do download the script file from the afram website or make a new file and name and paste from the following file:
+https://aframe.io/releases/0.7.0/aframe.min.js
+
+Do not forget to include the js file in your project!
