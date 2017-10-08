@@ -1,0 +1,79 @@
+[
+  {
+    "id": "deef9435-6eb6-4ee0-bd7f-358a3e7e118d",
+    "data": [
+      {
+        "text": "This ",
+        "userDefined": false
+      },
+      {
+        "text": "flight",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " is bad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "82d30cff-fba9-4949-8524-08d34646515d",
+    "data": [
+      {
+        "text": "This ",
+        "userDefined": false
+      },
+      {
+        "text": "flight",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "horrible",
+        "alias": "Complaint",
+        "meta": "@Complaint",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ac2bea9c-977a-4718-a5b8-b26e6b38b52f",
+    "data": [
+      {
+        "text": "I am not happy with my ",
+        "userDefined": false
+      },
+      {
+        "text": "flight",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "90bedc69-4251-4f07-aa05-981c2d2ca585",
+    "data": [
+      {
+        "text": "I am not satisfied",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

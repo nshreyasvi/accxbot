@@ -1,0 +1,28 @@
+{
+  "id": "71761c13-7812-4080-ae36-9cdccac96644",
+  "name": "I would like to watch some movies",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Here is a link to an online database of all the movies that I presently have for you onboard. Have fun! https://goo.gl/3RKoTz"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507426899229,
+  "fallbackIntent": false,
+  "events": []
+}

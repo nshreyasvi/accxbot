@@ -1,0 +1,58 @@
+[
+  {
+    "id": "ae566920-b432-4d7d-92a0-d185023ed50e",
+    "data": [
+      {
+        "text": "Emirates",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " airlines",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507386704
+  },
+  {
+    "id": "778e5082-a89e-44a8-a620-770f1f36911c",
+    "data": [
+      {
+        "text": "emirates",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1507386704
+  },
+  {
+    "id": "a803eec1-6f9d-4162-960a-17b2e033812a",
+    "data": [
+      {
+        "text": "Emirates Flight",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507386704
+  },
+  {
+    "id": "02aafe04-456d-4587-bd6c-189ad13068ad",
+    "data": [
+      {
+        "text": "EM246",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507386557
+  }
+]

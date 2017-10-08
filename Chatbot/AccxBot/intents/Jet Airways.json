@@ -1,0 +1,28 @@
+{
+  "id": "8d2ca73f-cc30-4f8c-b2ac-3d24b1f86499",
+  "name": "Jet Airways",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Your Jet Airways flight scheduled at 3:00 pm will depart from Gate D32"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507429206,
+  "fallbackIntent": false,
+  "events": []
+}

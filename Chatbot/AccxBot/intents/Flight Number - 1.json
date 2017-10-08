@@ -1,0 +1,43 @@
+{
+  "id": "eb7ff404-7f66-4a8a-bdc9-afdffa47775f",
+  "name": "Flight Number - 1",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1349d309-66f5-436f-a117-508cc41af493",
+          "dataType": "@sys.any",
+          "name": "text",
+          "value": "$text",
+          "isList": false
+        },
+        {
+          "id": "671f02f8-bbba-49b4-ba33-c35830c4c4af",
+          "dataType": "@sys.geo-country",
+          "name": "geo-country",
+          "value": "$geo-country",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Your Emirates Flight from Bangalore to Dubai is scheduled to leave at 12:00 am from Gate B"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507386704,
+  "fallbackIntent": false,
+  "events": []
+}

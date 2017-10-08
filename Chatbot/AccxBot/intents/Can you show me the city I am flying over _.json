@@ -1,0 +1,36 @@
+{
+  "id": "b2750fa9-2eda-477d-a408-b781e296b930",
+  "name": "Can you show me the city I am flying over ?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f3c326e8-7265-4b81-a7e5-1941529857f2",
+          "dataType": "@flightnumber",
+          "name": "flightnumber",
+          "value": "$flightnumber",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Hey! You are presently over Heidelberg, Germany. Here\u0027s a VR Environment for it. (https://goo.gl/omsB1F)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507429575,
+  "fallbackIntent": false,
+  "events": []
+}

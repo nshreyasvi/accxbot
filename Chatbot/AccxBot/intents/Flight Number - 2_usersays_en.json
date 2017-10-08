@@ -1,0 +1,56 @@
+[
+  {
+    "id": "d76aa9bf-d679-4650-b7bd-1337c9c34ad1",
+    "data": [
+      {
+        "text": "Vistara",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507386649
+  },
+  {
+    "id": "06d0a12f-b272-4082-9de5-d33ca96ec6ea",
+    "data": [
+      {
+        "text": "vistara airlines",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507386729
+  },
+  {
+    "id": "1dfb76f7-dbda-420d-a6db-83a71a6a8e08",
+    "data": [
+      {
+        "text": "vistara ",
+        "userDefined": false
+      },
+      {
+        "text": "flight",
+        "alias": "flightnumber",
+        "meta": "@flightnumber",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1507386729
+  },
+  {
+    "id": "69b09142-d339-4240-b6d6-d39ba5ccb95e",
+    "data": [
+      {
+        "text": "UK990",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

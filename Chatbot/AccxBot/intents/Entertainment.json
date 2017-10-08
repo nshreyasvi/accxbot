@@ -1,0 +1,28 @@
+{
+  "id": "b7258e0a-0fcc-449a-8c09-4c2ecafd5388",
+  "name": "Entertainment",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "We have got a lot of things for you so that you don\u0027t get bored during you flight. You can check them out at https://shreyasvinatraj.wixsite.com/vistarahub"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507407745,
+  "fallbackIntent": false,
+  "events": []
+}

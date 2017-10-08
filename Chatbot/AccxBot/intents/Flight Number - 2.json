@@ -1,0 +1,36 @@
+{
+  "id": "c942bedd-122f-4d13-839e-7914aca4a0d9",
+  "name": "Flight Number - 2",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a5cfaa0c-a333-410e-a054-4982e2a7506e",
+          "dataType": "@flightnumber",
+          "name": "flightnumber",
+          "value": "$flightnumber",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Your Vistara Flight from Mumbai to Malaysia is scheduled to leave at 11:45 pm from Gate A2"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507386729,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "26abced0-5af4-4308-aeca-9295255e6af3",
+  "name": "VR",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Here is a direct link to VR games (https://goo.gl/HurYh3) and Environments(https://goo.gl/DRsvYP). Hope you like it :) !"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507427824669,
+  "fallbackIntent": false,
+  "events": []
+}

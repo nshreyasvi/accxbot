@@ -1,0 +1,18 @@
+[
+  {
+    "value": "flight",
+    "synonyms": [
+      "flight",
+      "plane",
+      "airplane",
+      "aeroplane",
+      "fly"
+    ]
+  },
+  {
+    "value": "you",
+    "synonyms": [
+      "you"
+    ]
+  }
+]

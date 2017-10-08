@@ -1,0 +1,50 @@
+{
+  "id": "5febfc01-2c99-4346-a326-06e7775cdbc1",
+  "name": "Flight Details",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": true,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FlightDetails-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "648f8bdf-dd1c-47a5-b8e7-234c59e0bfdf",
+          "required": false,
+          "dataType": "@flightnumber",
+          "name": "flightnumber",
+          "value": "$flightnumber",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is your flight number ?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "What is the airlines that you\u0027re travelling with ?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507429140,
+  "fallbackIntent": false,
+  "events": []
+}

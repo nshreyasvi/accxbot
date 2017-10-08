@@ -1,0 +1,36 @@
+{
+  "id": "39c22ce6-34b6-4db1-9671-153d07ed52fc",
+  "name": "Show me something cool ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "19ca60fd-aea7-4e50-afc7-f6d37870c922",
+          "dataType": "@flightnumber",
+          "name": "flightnumber",
+          "value": "$flightnumber",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Here is a really cool VR Environment! Check it Out! https://vistara.neocities.org/photos.html"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507412710,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "39db45d4-e822-40af-a2c4-62cb9b7c5c32",
+  "name": "AR",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Here is a direct link to some of the AR games that are there on board. https://goo.gl/4WFnkA"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507427706408,
+  "fallbackIntent": false,
+  "events": []
+}

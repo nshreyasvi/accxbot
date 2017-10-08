@@ -1,0 +1,28 @@
+{
+  "id": "5ed311e7-1d44-4632-a28c-ec514f2cbdb1",
+  "name": "What can I do ?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Here are some things that you can do while you\u0027re in the flight! shreyasvinatraj.wixsite.com/vistarahub"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507412864,
+  "fallbackIntent": false,
+  "events": []
+}

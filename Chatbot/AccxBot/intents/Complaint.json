@@ -1,0 +1,43 @@
+{
+  "id": "00c4ea87-8131-45b4-b36c-bc7208389abc",
+  "name": "Complaint",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "73875c9d-abc9-4c21-9df3-a41a5c3262a6",
+          "required": true,
+          "dataType": "@Complaint",
+          "name": "Complaint",
+          "value": "$Complaint",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Oh! I\u0027m sorry about that. You can write the complaint here and it will be recorded"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I\u0027m extremely sorry for your bad experience, I have registered the complaint and we will ensure that we improve it as much as we can."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507376254,
+  "fallbackIntent": false,
+  "events": []
+}

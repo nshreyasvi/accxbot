@@ -1,0 +1,26 @@
+[
+  {
+    "value": "unhappy",
+    "synonyms": [
+      "unhappy",
+      "upset",
+      "not satisfied",
+      "horrible",
+      "complaint"
+    ]
+  },
+  {
+    "value": "not satisfied",
+    "synonyms": [
+      "not satisfied",
+      "not satisfactory"
+    ]
+  },
+  {
+    "value": "bad",
+    "synonyms": [
+      "bad",
+      "horrible"
+    ]
+  }
+]

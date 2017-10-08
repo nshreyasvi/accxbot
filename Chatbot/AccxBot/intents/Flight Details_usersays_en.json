@@ -1,0 +1,68 @@
+[
+  {
+    "id": "375b1a7b-db2a-4182-a9fc-423e1c6a5842",
+    "data": [
+      {
+        "text": "what is the ",
+        "userDefined": false
+      },
+      {
+        "text": "flight",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507385580
+  },
+  {
+    "id": "e1d8cff1-6fa0-45b0-b086-feab22178c2f",
+    "data": [
+      {
+        "text": "Which gate is my ",
+        "userDefined": false
+      },
+      {
+        "text": "flight",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " from",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507385580
+  },
+  {
+    "id": "d309de22-87a2-4c8a-a575-522a8d089d97",
+    "data": [
+      {
+        "text": "What time is my flight",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3b7939c5-084a-41e5-812c-2d332cf97598",
+    "data": [
+      {
+        "text": "When is my flight ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

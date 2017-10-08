@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ded660d3-68d8-43e4-b106-b73a4e44bb7e",
+    "data": [
+      {
+        "text": "I would like to know about the city I will be going to",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "05bf0d00-038e-46e4-8acc-445c8af545b1",
+    "data": [
+      {
+        "text": "I would like to know about the destination city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "85059c71-9e09-4667-b56c-1953a600b7bd",
+    "data": [
+      {
+        "text": "city I will be reaching",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "53027900-ac7d-4e33-9906-543a5c0bb878",
+    "data": [
+      {
+        "text": "City I am heading to ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "372ad4b1-6ed9-431c-87aa-c010cd01df5c",
+    "data": [
+      {
+        "text": "Destination City",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

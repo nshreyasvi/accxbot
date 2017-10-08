@@ -1,0 +1,28 @@
+{
+  "id": "762fa6f2-5233-48fc-a67b-e47cb3911201",
+  "name": "Destination City",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Here is a VR environment of the destination city. (https://goo.gl/isszau)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507434375,
+  "fallbackIntent": false,
+  "events": []
+}
